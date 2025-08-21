@@ -7,7 +7,7 @@ Repositori ini merupakan arsip pribadi berisi berbagai materi akademik yang saya
 ## 📂 Isi Repositori
 <!-- PORTFOLIO-START: features -->
 - 📊 Slide Presentasi Perkuliahan
-Materi presentasi berbasis Beamer yang dirancang dengan cermat untuk menyampaikan atau membantu penjelasan di kelas. Materi ini dibuat agar visualnya jelas, ringkas, dan efektif.
+Materi presentasi yang dirancang dengan cermat untuk menyampaikan atau membantu penjelasan di kelas. Materi ini dibuat agar visualnya jelas, ringkas, dan efektif.
 
 - 🧠 Catatan Tambahan
 Ringkasan atau penjelasan konsep tambahan yang digunakan untuk mendukung pemahaman mahasiswa di luar materi yang dibahas dalam perkuliahan.
